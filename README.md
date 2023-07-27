@@ -1,4 +1,4 @@
-# odin-recipesbbb
+# odin-recipesb
 
 My first project!
 
